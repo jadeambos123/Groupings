@@ -1,0 +1,55 @@
+.homepage {
+      padding: 2rem;
+        font-family: 'Segoe UI', sans-serif;
+        }
+
+        .welcome {
+          text-align: center;
+            margin-bottom: 1rem;
+            }
+
+            .card-container {
+              display: flex;
+                justify-content: space-around;
+                  gap: 1rem;
+                    flex-wrap: wrap;
+                      margin-bottom: 2rem;
+                      }
+
+                      .card {
+                        text-align: center;
+                          background: #fff;
+                            border-radius: 1rem;
+                              box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+                                padding: 1rem;
+                                  width: 160px;
+                                    transition: transform 0.2s;
+                                    }
+
+                                    .card:hover {
+                                      transform: translateY(-5px);
+                                      }
+
+                                      .card img {
+                                        width: 80px;
+                                          height: 80px;
+                                            margin-bottom: 0.5rem;
+                                            }
+
+                                            .announcements {
+                                              background-color: #f9f9f9;
+                                                padding: 1.5rem;
+                                                  border-radius: 1rem;
+                                                    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+                                                    }
+
+                                                    .announcements h3 {
+                                                      margin-bottom: 1rem;
+                                                      }
+
+                                                      .announcements ul {
+                                                        list-style: disc;
+                                                          padding-left: 1.5rem;
+                                                          }
+                                                          
+}
