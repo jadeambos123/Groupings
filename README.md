@@ -20,7 +20,6 @@ System Integration
 UI & Pages  
 - Worked on the layout for:
   - Home page
-  - Login page
   - Grouping display  
 - Started styling with CSS Modules.  
 
