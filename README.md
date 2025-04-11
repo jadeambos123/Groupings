@@ -44,7 +44,12 @@ Lessons & Next Steps
 
 Team Members  
 - Jade Ambos  
-- [Add other members' names here]  
+- Archie Jason Savaria
+- Finnah Marie Bajas
+- Kierby Amolato
+- Michael Canoy
+- Ashlee Rubin
+- Timothy Fortes
 
 📌 Notes  
 This README serves as a weekly log of what we’ve done so far for our IT223 Web System & Technologies project. GitHub will mainly hold our final version and documents, but most development happened in CodeSandbox.
